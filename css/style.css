@@ -15,8 +15,7 @@ body {background:#4B575F;border:0;font:14px Arial, Helvetica, sans-serif;color:#
 .block {height:92px}
 .extra {min-height:100%;height:auto !important;height:100%;margin:0 auto -92px;position:relative}
 body, html {height:100%}
-.bg1 {background:#00B5DD;position:relative;z-index:1;height:92px;-webkit-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 1);
-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 1);margin-top: 25px;}
+.bg1 {background:#00B5DD;position:relative;z-index:1;height:92px;-webkit-box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 1);box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 1);margin-top: 25px;}
 .box {width:100%;overflow:hidden;padding-top:20px;padding-bottom:20px;position:relative}
 .pagination {position:absolute;top:-35px;left:0}
 .pagination li {float:left;padding-right:2px;font-size:20px;line-height:34px}
